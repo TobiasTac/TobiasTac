@@ -1,16 +1,29 @@
-## Hi there 👋
+# Tobias 🚀
+**Full-Stack Developer**  
+*React.js | Node.js | TypeScript | Next.js | NestJS | AWS | Docker*
 
-<!--
-**TobiasTac/TobiasTac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍🎓 About Me
+- 🎯 **19 years old** Software Engineering student at **Federal University of Ceará**
+- 💡 Passionate about **performance optimization**, **clean design**, and **seamless user experiences**
+- 🚀 Building robust and scalable applications with modern tech stacks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+**Frontend:** React.js, Next.js, TypeScript  
+**Backend:** Node.js, NestJS, REST APIs  
+**Mobile:** React Native  
+**Cloud & DevOps:** AWS, Docker, Serverless Architecture  
+**Architecture:** Clean Architecture, Scalable Systems
+
+## 🌱 Currently Exploring
+- **Serverless Computing** with AWS Lambda & API Gateway
+- **NoSQL Databases** - DynamoDB
+- **Cloud-Native Applications** on AWS
+- **Microservices Patterns**
+
+
+## 📫 Let's Connect!
+- 💼 Check out my personal projects below
+- ⚡ Always open to discussing **tech innovations** or **mma**
+- 🎨 Occasionally obsessed with making things **pretty** and **bug-free**
