@@ -40,3 +40,10 @@
   <code><img src="https://user-images.githubusercontent.com/51785898/91358419-31502480-e7c9-11ea-9bb8-5124117e9a75.png" alt="AWS" width="40" height="40"/></code>&nbsp;
   <code><img src="https://user-images.githubusercontent.com/51785898/91358426-3319e800-e7c9-11ea-9df0-b5a207cecfce.png" alt="Typescript" width="40" height="40"/></code>&nbsp;
 </p>
+
+<div align="center">
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/tobias-alves-388549273/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](https://www.instagram.com/tobiasac_/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](mailto:tobias.vida@live.com)
+</div>
