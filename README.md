@@ -1,42 +1,61 @@
 # Tobias 🚀
-**Full-Stack Developer**  
-*React.js | Node.js | TypeScript | Next.js | NestJS | AWS | Docker*
+**Software Engineering Student @ UFC** | **Full-Stack Developer**
+
+<div align="center">
+  <img src="game.gif" alt="GitHub Space Shooter" width="100%">
+  
+  <br/>
+
+  [![GitHub Spacedawg](https://img.shields.io/badge/Status-Actively_Coding-brightgreen)]()
+  [![UFC](https://img.shields.io/badge/Education-UFC-blue)](https://www.ufc.br/)
+  [![Tech](https://img.shields.io/badge/Focus-Scalability_%26_Performance-orange)]()
+</div>
 
 ---
 
-## 👨‍🎓 About Me
-- 🎯 **19 years old** Software Engineering student at **Federal University of Ceará**
-- 💡 Passionate about **performance optimization**, **clean design**, and **seamless user experiences**
-- 🚀 Building robust and scalable applications with modern tech stacks
+## 👨‍🎓 Sobre Mim
+- 🎓 Estudante de **Engenharia de Software** na Universidade Federal do Ceará.
+- 💡 Focado em **performance**, **clean design** e arquiteturas escaláveis.
+- 🚀 Construindo aplicações robustas com foco em ecossistemas Cloud-Native.
+- 🥊 Nas horas vagas? Estudando ou acompanhando **MMA**.
+
+---
 
 ## 🛠 Tech Stack
-**Frontend:** React.js, Next.js, TypeScript  
-**Backend:** Node.js, NestJS, REST APIs  
-**Mobile:** React Native  
-**Cloud & DevOps:** AWS, Docker, Serverless Architecture  
-**Architecture:** Clean Architecture, Scalable Systems
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Frontend** | React.js, Next.js, TypeScript |
+| **Backend** | Node.js, NestJS, REST APIs, Go |
+| **Mobile** | React Native |
+| **Cloud/DevOps** | AWS, Docker, Serverless |
+| **Arquitetura** | Clean Architecture, SOLID, Microservices |
 
-## 🌱 Currently Exploring
-- **Serverless Computing** with AWS Lambda & API Gateway
-- **NoSQL Databases** - DynamoDB
-- **Cloud-Native Applications** on AWS
-- **Microservices Patterns**
+---
 
+## 🌱 No meu Radar (Estudando agora)
+- ☁️ **AWS Mastery:** Aprofundando em DynamoDB e Serverless Architecture.
+- 🏗 **Microservices:** Padrões de comunicação e desacoplamento.
+- 🤖 **LLMs:** Context Engineering e Fine-tuning.
 
-## 📫 Let's Connect!
-- 💼 Check out my personal projects below
-- ⚡ Always open to discussing **tech innovations** or **mma**
-- 🎨 Occasionally obsessed with making things **pretty** and **bug-free**
+---
 
-## 🔧 Ferramentas e Tecnologias:
-<p align="left"> 
-  <code><img src="https://user-images.githubusercontent.com/51785898/91357834-3eb8df00-e7c8-11ea-9936-0ce666ac2a11.png" alt="JS" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://user-images.githubusercontent.com/51785898/91357841-3fea0c00-e7c8-11ea-91de-947891a2dec6.png" alt="Docker" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://user-images.githubusercontent.com/51785898/91357843-411b3900-e7c8-11ea-8161-3e8191a6cde2.png" alt="React.js" width="60" height="40" /></code>&nbsp;
-  <code><img src="https://user-images.githubusercontent.com/51785898/91357845-424c6600-e7c8-11ea-9457-53c06cf3b6ed.png" alt="React-Native" width="60" height="40" /></code>&nbsp;
-  <code><img src="https://user-images.githubusercontent.com/51785898/91357850-44162980-e7c8-11ea-966c-a7ebaba08ba3.png" alt="Node.js" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://user-images.githubusercontent.com/51785898/91358293-f0581000-e7c8-11ea-95f0-f1a8e29ee9d1.png" alt="Postgres" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://user-images.githubusercontent.com/51785898/91358353-0cf44800-e7c9-11ea-9a54-0a988aa2837c.png" alt="Github" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://user-images.githubusercontent.com/51785898/91358419-31502480-e7c9-11ea-9bb8-5124117e9a75.png" alt="AWS" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://user-images.githubusercontent.com/51785898/91358426-3319e800-e7c9-11ea-9df0-b5a207cecfce.png" alt="Typescript" width="40" height="40"/></code>&nbsp;
+## 🔧 Ferramentas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,postgres,aws,docker,github,linux,go" alt="My Skills" />
 </p>
+
+---
+
+## 📫 Vamos nos conectar!
+- 💼 Confira meus projetos destacados abaixo.
+- ⚡ Aberto a conversas sobre tech, arquitetura ou o último card do UFC.
+- 🎨 Obsessivo por interfaces bonitas e código livre de bugs.
+
+<div align="center">
+  <a href="https://github.com/TobiasTac">
+    <img src="https://github-readme-stats.vercel.app/api?username=TobiasTac&show_icons=true&theme=tokyonight" height="170" />
+  </a>
+  <a href="https://github.com/TobiasTac">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasTac&layout=compact&theme=tokyonight" height="170" />
+  </a>
+</div>
